@@ -4,6 +4,8 @@
 
 L'application fournit une interface graphique simple avec une barre de recherche et une liste des résultats correspondant à la recherche.
 
+![SearchVulScan](https://i.imgur.com/5HBKBb5.png)
+
 ---
 
 ## Fonctionnalités
